@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Легендарная капибара",
+        "price": 15000,
+        "image": "capy.jpg"
+    },
+    {
+        "name": "Вомбат обыкновенный",
+        "price": 25000,
+        "image": "wombat.jpg"
+    },
+    {
+        "name": "Мистер Фреш",
+        "price": 250000,
+        "image": "mrfresh.jpg"
+    }
+]
